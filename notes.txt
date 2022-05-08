@@ -1,0 +1,2 @@
+This file is used to demonstrate github functionalities and will save notes for every session.
+Github is one the topic we have covered today.
